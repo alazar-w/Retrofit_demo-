@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="title_task_detail">Just a Thought</string>
+    <string name="title_activity_idea_list">Innovation Ideas</string>
+    <string name="hello_first_fragment">first_fragment</string>
+    <string name="next">next</string>
+    <string name="previous">Previous</string>
+    <string name="first_fragment_label">label1</string>
+    <string name="second_fragment_label">label2</string>
+</resources>
